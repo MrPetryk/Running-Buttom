@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/File">
+        <file>zlobnyy-smeh-zlobnogo-cheloveka.wav</file>
+    </qresource>
+</RCC>
